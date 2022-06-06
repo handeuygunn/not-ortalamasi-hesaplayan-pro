@@ -1,0 +1,1 @@
+# not-ortalamasi-hesaplayan-pro
